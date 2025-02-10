@@ -2,12 +2,12 @@ import Favicon from '/public/brand/favicon.png'
 import Thumb from '/public/brand/thumb.png'
 
 const title = 'Grupo Permaneo'
-const description = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.'
-const baseUrl = 'https://permaneo-test.vercel.app'
+const description = 'Do lançamento de infoprodutos aos eventos presenciais mais impactantes de marketing digital, somos especialistas em construir posicionamento diferenciado, influência e estratégias eficazes de monetização na internet, atuando nos bastidores das maiores personalidades e criadores de conteúdo do Brasil.'
+const baseUrl = 'https://permaneo-frontend-test.vercel.app'
 
 export default {
   manifest: '/manifest.json',
-  metadataBase: new URL( 'https://permaneo-test.vercel.app' ),
+  metadataBase: new URL( 'https://permaneo-frontend-test.vercel.app' ),
   applicationName: 'Grupo Permaneo',
   authors: [ { name: 'Grupo Permaneo' } ],
   keywords: [ 'Grupo Permaneo' ],
