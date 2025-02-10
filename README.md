@@ -1,5 +1,8 @@
 # Grupo Permaneo
 
+**Disponível em:
+https://permaneo-frontend-test.vercel.app
+
 ## Getting Started
 
 Crie o arquivo `.env.local` com base no `.env.example`
@@ -27,7 +30,7 @@ npm run storybook
 ```
 
 Também disponível online:
-https://permaneo-frontend-test.vercel.app/
+https://permaneo-frontend-storybook-test.vercel.app
 
 
 ## Padrão de Commits
