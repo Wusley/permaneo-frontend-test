@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Snapshot matches the snapshot 1`] = `
+<div>
+  <div
+    class="css-rdd2rx"
+  >
+    <span
+      class="chakra-text css-i9e4ov"
+    >
+      Copyright© 
+      2025
+      , Grupo Permaneo
+    </span>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

@@ -1,0 +1,36 @@
+{
+	"name": "Permaneo",
+	"short_name": "Permaneo",
+	"description": "",
+	"scope": "/",
+	"start_url": "/",
+	"display": "standalone",
+  "theme_color": "#222",
+  "background_color": "#222",
+	"icons": [
+		{
+			"src": "/brand/thumb.png",
+			"sizes": "152x152",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/brand/favicon.png",
+			"sizes": "180x180",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/brand/favicon.png",
+			"sizes": "384x384",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/brand/favicon.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
+}

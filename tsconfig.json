@@ -1,0 +1,67 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"lib": [
+			"dom",
+			"dom.iterable",
+			"esnext"
+		],
+		"target": "esnext",
+		"allowSyntheticDefaultImports": true,
+		"noImplicitAny": false,
+		"sourceMap": true,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"useUnknownInCatchVariables": false,
+		"skipLibCheck": true,
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+		"noEmit": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"jsx": "preserve",
+		"incremental": true,
+		"types": [
+			"node",
+			"jest"
+		],
+		"typeRoots": [
+			"node_modules/@types",
+			"src/types"
+		],
+		"plugins": [
+			{
+				"name": "next"
+			}
+		],
+		"baseUrl": "./",
+		"paths": {
+			"@/*": [
+				"src/*"
+			],
+			"@public/*": [
+				"public/*"
+			],
+			"react": [
+				"node_modules/@types/react"
+			]
+		},
+		"esModuleInterop": true
+	},
+	"include": [
+		"next-env.d.ts",
+		"**/*.ts",
+		"**/*.tsx",
+		"build/types/**/*.ts",
+		".next/types/**/*.ts",
+		"next.config.js",
+		"build/types/**/*.ts"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}

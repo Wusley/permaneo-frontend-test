@@ -1,0 +1,27 @@
+import { Meta } from '@storybook/addon-docs'
+import VercelAnalytics from './'
+
+<Meta title="Components/VercelAnalytics" component={VercelAnalytics} />
+
+# VercelAnalytics
+
+O componente `VercelAnalytics` integra o [Vercel Analytics](https://vercel.com/analytics) em uma aplicação Next.js. É adicionado automaticamente o script de rastreamento da Vercel, permitindo o monitoramento de dados de navegação e interações do usuário.
+
+## Funcionamento
+
+O componente `VercelAnalytics` utiliza o `<Analytics />` da Vercel para iniciar o monitoramento. Isso permite que a Vercel colete dados de uso e visitas em toda a aplicação, sem necessidade de configuração manual em cada página.
+
+## Exemplo de Uso
+
+Para usar este componente, basta incluí-lo na página raiz da aplicação (por exemplo, em `layout.tsx`) para que o rastreamento esteja disponível em todas as páginas:
+
+```tsx
+import VercelAnalytics from '@components/analytics/vercel-analytics'
+
+const Layout = () => (
+	...
+	<VercelAnalytics />
+	...
+)
+
+export default Layout

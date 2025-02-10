@@ -1,0 +1,421 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardCourse renders active course state correctly 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body
+    class="chakra-ui-light"
+  >
+    <div>
+      <div
+        class="chakra-card css-1c6lmhu"
+      >
+        <header
+          class="chakra-card__header css-1dad67h"
+        >
+          <div
+            class="chakra-stack css-1uodvt1"
+          >
+            <span
+              class="chakra-avatar css-tvcku"
+            >
+              <div
+                aria-label="Curso de Next.js"
+                class="chakra-avatar__initials css-1ebyn6"
+                role="img"
+              >
+                CN
+              </div>
+            </span>
+            <h3
+              class="chakra-heading css-9f6g39"
+            >
+              Curso de Next.js
+            </h3>
+          </div>
+        </header>
+        <article
+          class="chakra-card__body css-c8h2w1"
+        >
+          <p
+            class="chakra-text css-tg4q1t"
+          >
+            Aprenda Next.js do zero ao avançado.
+          </p>
+        </article>
+        <footer
+          class="chakra-card__footer css-hoqr9a"
+        >
+          Acessar Curso
+        </footer>
+      </div>
+      <span
+        hidden=""
+        id="__chakra_env"
+      />
+    </div>
+    <div
+      class="chakra-portal"
+    >
+      <div
+        aria-label="Notifications-top"
+        aria-live="polite"
+        id="chakra-toast-manager-top"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+      />
+      <div
+        aria-label="Notifications-top-left"
+        aria-live="polite"
+        id="chakra-toast-manager-top-left"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column;"
+      />
+      <div
+        aria-label="Notifications-top-right"
+        aria-live="polite"
+        id="chakra-toast-manager-top-right"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column;"
+      />
+      <div
+        aria-label="Notifications-bottom-left"
+        aria-live="polite"
+        id="chakra-toast-manager-bottom-left"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column;"
+      />
+      <div
+        aria-label="Notifications-bottom"
+        aria-live="polite"
+        id="chakra-toast-manager-bottom"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+      />
+      <div
+        aria-label="Notifications-bottom-right"
+        aria-live="polite"
+        id="chakra-toast-manager-bottom-right"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column;"
+      />
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="chakra-card css-1c6lmhu"
+    >
+      <header
+        class="chakra-card__header css-1dad67h"
+      >
+        <div
+          class="chakra-stack css-1uodvt1"
+        >
+          <span
+            class="chakra-avatar css-tvcku"
+          >
+            <div
+              aria-label="Curso de Next.js"
+              class="chakra-avatar__initials css-1ebyn6"
+              role="img"
+            >
+              CN
+            </div>
+          </span>
+          <h3
+            class="chakra-heading css-9f6g39"
+          >
+            Curso de Next.js
+          </h3>
+        </div>
+      </header>
+      <article
+        class="chakra-card__body css-c8h2w1"
+      >
+        <p
+          class="chakra-text css-tg4q1t"
+        >
+          Aprenda Next.js do zero ao avançado.
+        </p>
+      </article>
+      <footer
+        class="chakra-card__footer css-hoqr9a"
+      >
+        Acessar Curso
+      </footer>
+    </div>
+    <span
+      hidden=""
+      id="__chakra_env"
+    />
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "store": {
+    "@@observable": [Function],
+    "dispatch": [Function],
+    "getState": [Function],
+    "replaceReducer": [Function],
+    "subscribe": [Function],
+  },
+  "unmount": [Function],
+}
+`;
+
+exports[`CardCourse renders the course card correctly 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body
+    class="chakra-ui-light"
+  >
+    <div>
+      <div
+        class="chakra-card css-1fxlf1t"
+      >
+        <header
+          class="chakra-card__header css-z813yp"
+        >
+          <div
+            class="chakra-stack css-1uodvt1"
+          >
+            <span
+              class="chakra-avatar css-tvcku"
+            >
+              <div
+                aria-label="Curso de Next.js"
+                class="chakra-avatar__initials css-1ebyn6"
+                role="img"
+              >
+                CN
+              </div>
+            </span>
+            <h3
+              class="chakra-heading css-9f6g39"
+            >
+              Curso de Next.js
+            </h3>
+          </div>
+        </header>
+        <article
+          class="chakra-card__body css-1ttha67"
+        >
+          <p
+            class="chakra-text css-tg4q1t"
+          >
+            Aprenda Next.js do zero ao avançado.
+          </p>
+        </article>
+        <footer
+          class="chakra-card__footer css-rfvz8g"
+        >
+          Inscreva-se agora
+        </footer>
+      </div>
+      <span
+        hidden=""
+        id="__chakra_env"
+      />
+    </div>
+    <div
+      class="chakra-portal"
+    >
+      <div
+        aria-label="Notifications-top"
+        aria-live="polite"
+        id="chakra-toast-manager-top"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+      />
+      <div
+        aria-label="Notifications-top-left"
+        aria-live="polite"
+        id="chakra-toast-manager-top-left"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column;"
+      />
+      <div
+        aria-label="Notifications-top-right"
+        aria-live="polite"
+        id="chakra-toast-manager-top-right"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column;"
+      />
+      <div
+        aria-label="Notifications-bottom-left"
+        aria-live="polite"
+        id="chakra-toast-manager-bottom-left"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column;"
+      />
+      <div
+        aria-label="Notifications-bottom"
+        aria-live="polite"
+        id="chakra-toast-manager-bottom"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+      />
+      <div
+        aria-label="Notifications-bottom-right"
+        aria-live="polite"
+        id="chakra-toast-manager-bottom-right"
+        role="region"
+        style="position: fixed; z-index: var(--toast-z-index, 5500); pointer-events: none; display: flex; flex-direction: column;"
+      />
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="chakra-card css-1fxlf1t"
+    >
+      <header
+        class="chakra-card__header css-z813yp"
+      >
+        <div
+          class="chakra-stack css-1uodvt1"
+        >
+          <span
+            class="chakra-avatar css-tvcku"
+          >
+            <div
+              aria-label="Curso de Next.js"
+              class="chakra-avatar__initials css-1ebyn6"
+              role="img"
+            >
+              CN
+            </div>
+          </span>
+          <h3
+            class="chakra-heading css-9f6g39"
+          >
+            Curso de Next.js
+          </h3>
+        </div>
+      </header>
+      <article
+        class="chakra-card__body css-1ttha67"
+      >
+        <p
+          class="chakra-text css-tg4q1t"
+        >
+          Aprenda Next.js do zero ao avançado.
+        </p>
+      </article>
+      <footer
+        class="chakra-card__footer css-rfvz8g"
+      >
+        Inscreva-se agora
+      </footer>
+    </div>
+    <span
+      hidden=""
+      id="__chakra_env"
+    />
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "store": {
+    "@@observable": [Function],
+    "dispatch": [Function],
+    "getState": [Function],
+    "replaceReducer": [Function],
+    "subscribe": [Function],
+  },
+  "unmount": [Function],
+}
+`;
